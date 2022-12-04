@@ -1,0 +1,27 @@
+[submodule "SpringBoard"]
+	path = SpringBoard
+	url = https://github.com/JohnVithor/SpringBoard
+[submodule "SpringConfigFiles"]
+	path = SpringConfigFiles
+	url = https://github.com/JohnVithor/SpringConfigFiles
+[submodule "SpringColumn"]
+	path = SpringColumn
+	url = https://github.com/JohnVithor/SpringColumn
+[submodule "SpringUser"]
+	path = SpringUser
+	url = https://github.com/JohnVithor/SpringUser
+[submodule "SpringIssue"]
+	path = SpringIssue
+	url = https://github.com/JohnVithor/SpringIssue
+[submodule "SpringComment"]
+	path = SpringComment
+	url = https://github.com/JohnVithor/SpringComment
+[submodule "SpringConfigServer"]
+	path = SpringConfigServer
+	url = https://github.com/JohnVithor/SpringConfigServer
+[submodule "SpringNamingServer"]
+	path = SpringNamingServer
+	url = https://github.com/JohnVithor/SpringNamingServer
+[submodule "SpringGateway"]
+	path = SpringGateway
+	url = https://github.com/JohnVithor/SpringGateway
