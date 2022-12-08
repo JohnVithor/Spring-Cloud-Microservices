@@ -25,3 +25,6 @@
 [submodule "SpringGateway"]
 	path = SpringGateway
 	url = https://github.com/JohnVithor/SpringGateway
+[submodule "SpringFunction"]
+	path = SpringFunction
+	url = https://github.com/JohnVithor/SpringFunction
